@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Павел Цыпилев](https://up.htmlacademy.ru/htmlcss/31/user/1779275).
-* Наставник: `[Иван Бессалов](https://htmlacademy.ru/profile/lvov)`.
+* Наставник: `[Мария Чернова]`(https://htmlacademy.ru/profile/id49571).
 
 ---
 
